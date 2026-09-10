@@ -40,4 +40,3 @@ Reply `default` to accept the current question's default, `same as previous` whe
 ```text
 Use $speckit-orchestrator on specs/<spec-dir>
 ```
-# speckit-orchestrator
