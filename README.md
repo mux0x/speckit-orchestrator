@@ -1,4 +1,4 @@
-# SpecKit Orchestrator v2.2.1 Skill Pack
+# SpecKit Orchestrator
 
 This pack contains two Agent Skills:
 
